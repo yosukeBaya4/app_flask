@@ -1,2 +1,2 @@
 # ignore below files.
-flask_blog.db
+/flask_blog.db
